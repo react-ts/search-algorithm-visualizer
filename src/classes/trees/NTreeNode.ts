@@ -24,7 +24,7 @@ export class NTreeNode<T> extends BaseNode<T> {
     return null;
   }
   
-  private isLeaf () {
-    return this.children.length === 0;
-  }
+  // private isLeaf () {
+  //   return this.children.length === 0;
+  // }
 }
