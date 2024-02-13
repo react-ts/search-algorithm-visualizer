@@ -21,5 +21,5 @@ jobs:
           firebaseServiceAccount: >-
             ${{ secrets.FIREBASE_SERVICE_ACCOUNT_SEARCH_ALGORITHM_VISUALI_556F7
             }}
-            channelId: preview
+          channelId: preview
           projectId: search-algorithm-visuali-556f7
